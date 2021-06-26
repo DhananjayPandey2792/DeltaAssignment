@@ -1,0 +1,40 @@
+<extentreports>
+  <configuration>
+    
+    <theme>standard</theme>
+  
+    
+    <encoding>UTF-8</encoding>
+    
+    
+    <protocol>https</protocol>
+    
+    
+    <documentTitle>Demoqa - Cucumber Framework</documentTitle>
+    
+    
+    <reportName>Demoqa - Cucumber Report</reportName>
+    
+    
+    <dateFormat>yyyy-MM-dd</dateFormat>
+    
+    
+    <timeFormat>HH:mm:ss</timeFormat>
+    
+  
+    <scripts>
+      <![CDATA[
+        $(document).ready(function() {
+        
+        });
+      ]]>
+    </scripts>
+    
+    
+    <styles>
+      <![CDATA[
+        
+      ]]>
+    </styles>
+  </configuration>
+</extentreports>
